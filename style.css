@@ -1,0 +1,17 @@
+table,th,td{
+    border: 1px solid black;
+}
+table {
+    border-spacing: 5px;
+  }
+  th{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.student{
+    padding: 15px;
+}
+td{
+    padding-right: 20px;
+}
